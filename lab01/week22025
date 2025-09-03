@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title>Title of the page</title>
+</head>
+
+<body>
+  <h1>Title of the page</h1>
+  <h2>Subtitle</h2>
+  <!--this is a comment-->
+    <p>Content goes <strong>here.</strong></p>
+
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In nobis, ipsum sint blanditiis obcaecati atque? Quod quam suscipit et molestias? Necessitatibus odio magnam illum aliquid, corporis delectus culpa laborum molestiae.</p>
+   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem quisquam quasi, saepe veniam voluptate accusantium quis ipsum exercitationem at error ullam illo delectus, aperiam deserunt? Cum molestiae dicta praesentium iusto?</p>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam voluptate quas exercitationem sit sed reiciendis consequuntur pariatur voluptas aliquam laudantium vitae, at veritatis a, maiores velit rerum? Placeat, provident earum?</p>
+</body>
+
+</html>
