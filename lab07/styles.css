@@ -1,0 +1,17 @@
+p {color: green;}
+body {
+    background-color: #b3cde0;
+    color: #03396c;
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    color: #cc5500;
+}
+h1, h2 {color: #011f4b;}
+.evenrow {background-color: purple;}
+h1 {font-size: 2em;}
+h2 {font-size: 1em;}
+nav {
+    background-color: #6497b1;
+    highl
+}
