@@ -18,4 +18,4 @@ nav {
 }
 nav a {color: #ffffff;}
 nav a:hover {background-color: #005b96;}
-.quote {float: right;}
+.quote {float: left;}
