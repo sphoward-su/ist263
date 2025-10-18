@@ -18,4 +18,6 @@ nav {
 }
 nav a {color: #ffffff;}
 nav a:hover {background-color: #005b96;}
+footer p {margin: 0;}
+.copyright {float: left;}
 .quote {float: right;}
