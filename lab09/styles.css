@@ -28,9 +28,9 @@ footer p {margin: 0;}
 #form {flex: 1;}
 .skillsflexbox {
     display: flex;
-    justify-content: center; /* centers content horizontally */
-    align-items: flex-start; /* aligns both items to the top */
-    gap: 50px; /* adds space between table and image */
+    justify-content: center; 
+    align-items: flex-start; 
+    gap: 50px; 
     margin-top: 30px;}
-.skillstable table {margin: 0 auto; /* keeps table centered inside its div */}
+.skillstable table {margin: 0 auto;}
 .skillsimage {text-align: center;}
