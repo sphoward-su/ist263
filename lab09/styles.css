@@ -26,5 +26,11 @@ footer p {margin: 0;}
 .outer-container2 {justify-content: center;}
 #map {flex: 2;}
 #form {flex: 1;}
-.skillstable table {margin: 0 auto;}
+.skillsflexbox {
+    display: flex;
+    justify-content: center; /* centers content horizontally */
+    align-items: flex-start; /* aligns both items to the top */
+    gap: 50px; /* adds space between table and image */
+    margin-top: 30px;}
+.skillstable table {margin: 0 auto; /* keeps table centered inside its div */}
 .skillsimage {text-align: center;}
