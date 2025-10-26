@@ -35,11 +35,3 @@ footer p {margin: 0;}
 .skillstable table {margin: 0 auto;}
 .skillsimage {text-align: center;}
 table, th, td {border: 1px solid black;}
-    h1 {text-align: center;}
-    .skillsflexbox {
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        gap: 20px;
-        margin-top: 20px;
-    }
