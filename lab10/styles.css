@@ -1,0 +1,37 @@
+p {color: black;}
+body {
+    background-color: #b3cde0;
+    color: #03396c;
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    color: #cc5500;
+}
+h1, h2 {color: #011f4b;}
+.evenrow {background-color: purple;}
+h1 {font-size: 2em;}
+h2 {font-size: 1em;}
+nav {
+    background-color: #6497b1;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+nav a {color: #ffffff;}
+nav a:hover {background-color: #005b96;}
+footer p {margin: 0;}
+.copyright {float: left;}
+.quote {float: right;}
+.outer-container1, .outer-container2 {display: flex; background-color: burlywood; border-radius: 1em; margin: 1em;}
+.top, .bottom {margin: 1em;}
+.outer-container2 {justify-content: center;}
+#map {flex: 2;}
+#form {flex: 1;}
+.skillsflexbox {
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start; 
+    gap: 50px; 
+    margin-top: 30px;}
+.skillstable table {margin: 0 auto;}
+.skillsimage {text-align: center;}
+table, th, td {border: 1px solid black;}
