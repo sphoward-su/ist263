@@ -21,9 +21,9 @@ nav a:hover {background-color: #005b96;}
 footer p {margin: 0;}
 .copyright {float: left;}
 .quote {float: right;}
-.outer-container1, .outer-container2 {display: flex; background-color: burlywood; border-radius: 1em; margin: 1em;}
+.outer-container1, .outer-container2 {display: flex; burlywood; border-radius: 1em; margin: 1em;}
 .top, .bottom {margin: 1em;}
-.outer-container2 {justify-content: center;}
+.outer-container2 {justify-content: center; flex-wrap: wrap;}
 #map {flex: 2;}
 #form {flex: 1;}
 .skillsflexbox {
