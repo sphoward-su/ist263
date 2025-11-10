@@ -13,6 +13,10 @@
         document.getElementById("correct").innerHTML="<span style='color:green;'>False is the correct answer!</span>"
 
  }
+  function changeImage () {
+        document.getElementById("linkedin").setAttribute="src","../images/bio-header.png"
+
+ }
 </script>
 
 </head>
@@ -23,7 +27,7 @@
     <p id="wrong" onclick="wrongAnswer();">True</p>
     <p id="correct" onclick="rightAnswer();">False</p>
 
-    <img src="../images/logo-resized3.png">
+    <img src="../images/logo-resized3.png" id="linkedin" onclick="changeImage();">
 </body>
 
 </html>
