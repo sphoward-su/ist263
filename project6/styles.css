@@ -25,6 +25,10 @@ body {
     border-bottom: 1px solid #ccc;
     padding: 10px 0;
     background-color: slategray;
+    
+}
+.main-nav a :hover {
+    background-color: #005b96;
 }
 .main-nav a {
     text-decoration: none;
