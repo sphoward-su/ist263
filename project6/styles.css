@@ -44,7 +44,6 @@ body {
 .intro-text h2 {
     font-size: 22px;
     margin-top: 20px;
-    background-color: slategray;
 }
 .image-row {
     display: flex;
