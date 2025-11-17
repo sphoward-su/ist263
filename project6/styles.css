@@ -44,6 +44,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
+    background-color: slategray;
 }
 .image-row img {
     width: 32%;
