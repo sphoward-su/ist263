@@ -18,7 +18,7 @@ body {
     font-size: 24px;
     margin-left: 20px;
 }
-.main-nav {
+.nav {
     display: flex;
     justify-content: space-around;
     border-top: 1px solid #ccc;
@@ -67,7 +67,7 @@ body {
         flex-direction: column;
         text-align: center;
     }
-    .main-nav {
+    .nav {
         flex-direction: column;
         text-align: center;
         gap: 10px;
