@@ -27,10 +27,10 @@ body {
     background-color: slategray;
     
 }
-.main-nav a :hover {
+.nav a :hover {
     background-color: #005b96;
 }
-.main-nav a {
+.nav a {
     text-decoration: none;
     color: black;
     font-weight: bold;
