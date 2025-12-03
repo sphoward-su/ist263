@@ -50,3 +50,9 @@ table, th, td {border: 1px solid black;}
   width: auto;
   height: auto;
 }
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
