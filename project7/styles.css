@@ -81,3 +81,19 @@ body {
         margin-bottom: 15px;
     }
 }
+.fall-intro {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+}
+
+.fall-text {
+  flex: 1;
+}
+
+.fall-image img {
+  width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
