@@ -124,7 +124,7 @@ body {
   display: grid;
   grid-template-columns: 2fr 3fr; 
   gap: 2rem;
-  width: 100%;
+  width: 500px;
   align-items: center;
 }
 
