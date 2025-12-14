@@ -112,7 +112,7 @@ body {
   margin: 0 0 5px;
 }
 
-.spring-align {text-align: justify;}
+.spring-align {text-align:justify; text-align: right;}
 
 .spring-intro {
   display: flex;
