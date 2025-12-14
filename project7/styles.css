@@ -87,17 +87,16 @@ body {
   align-items: flex-start;
 }
 
-.fall-text {
+.fall-image {
   flex: 1;
+  max-width: 50%;
 }
 
 .fall-image img {
   width: 100%;
-    height: auto;
-    display: block;
-    margin: 20px 0;
-    max-width: 900px;
+  height: auto;
 }
+
 .event {
   display: flex;
   gap: 20px;
