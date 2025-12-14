@@ -82,25 +82,16 @@ body {
     }
 }
 .fall {
-  display: flex;
-  width: 100%;
-  gap: 2rem; 
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
 }
 
-.fall-intro {
-  flex: 1; 
+@media (max-width: 768px) {
+  .fall {
+    flex-direction: column;
+  }
 }
-
-.fall-image {
-  flex: 2; 
-}
-
-.fall-image img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
 
 .event {
   display: flex;
