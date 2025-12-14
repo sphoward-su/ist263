@@ -84,7 +84,7 @@ body {
 .fall-intro {
   display: flex;
   gap: 40px;
-  align-items: flex-start;
+  align-items:flex-start;
 }
 
 .fall-image {
@@ -95,6 +95,7 @@ body {
 .fall-image img {
   width: 100%;
   height: auto;
+  max-width: 50%;
 }
 
 .event {
