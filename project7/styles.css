@@ -97,10 +97,6 @@ body {
   height: auto;
 }
 
-.fall-image img {
-max-width: 500px;
-}
-
 .event {
   display: flex;
   gap: 20px;
