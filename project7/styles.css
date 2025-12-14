@@ -87,15 +87,7 @@ body {
   align-items:flex-start;
 }
 
-.fall-image {
-  flex: 1;
-  max-width: 50%;
-}
 
-.fall-image img {
-  width: 100%;
-  height: auto;
-}
 
 .event {
   display: flex;
@@ -121,13 +113,3 @@ body {
   align-items:flex-start;
 }
 
-.spring-image {
-  flex: 1;
-  max-width: 50%;
-}
-
-.spring-image img {
-  width: 100%;
-  height: auto;
-  max-width: 50%;
-}
