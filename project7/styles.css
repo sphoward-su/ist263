@@ -133,3 +133,37 @@ body {
   height: auto;
   display: block;
 }
+
+@media (max-width: 768px) {
+
+  .fall-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .fall-photo img {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .event {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .event img {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .fall-align {
+    text-align: left;
+  }
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
