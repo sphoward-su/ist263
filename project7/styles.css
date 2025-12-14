@@ -118,7 +118,7 @@ body {
 }
 
 .fall-align {text-align: justify;}
-.spring-align {text-align:justify; text-align: right;}
+.spring-align {text-align:justify;}
 
 .spring-intro {
   display: flex;
