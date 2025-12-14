@@ -114,3 +114,20 @@ body {
 }
 
 .spring-align {text-align: right;}
+
+.spring-intro {
+  display: flex;
+  gap: 40px;
+  align-items:flex-start;
+}
+
+.spring-image {
+  flex: 1;
+  max-width: 50%;
+}
+
+.spring-image img {
+  width: 100%;
+  height: auto;
+  max-width: 50%;
+}
