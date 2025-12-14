@@ -98,6 +98,16 @@ body {
   max-width: 500px;
 }
 
+@media (max-width: 768px) {
+  .fall-intro {
+    flex-direction: column;
+  }
+
+  .fall-image {
+    max-width: 100%;
+  }
+}
+
 .event {
   display: flex;
   gap: 20px;
