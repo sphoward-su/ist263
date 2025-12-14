@@ -81,11 +81,6 @@ body {
         margin-bottom: 15px;
     }
 }
-.fall {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  gap: 2rem;
-}
 
 @media (max-width: 768px) {
   .fall {
@@ -111,9 +106,30 @@ body {
 .fall-align {text-align: justify;}
 .spring-align {text-align:justify;}
 
-.spring-intro {
-  display: flex;
-  gap: 40px;
-  align-items:flex-start;
+.spring-grid {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 2rem;
+  width: 100%;
+  align-items: center;
 }
 
+.spring-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.fall-grid {
+  display: grid;
+  grid-template-columns: 2fr 3fr; 
+  gap: 2rem;
+  width: 100%;
+  align-items: center;
+}
+
+.fall-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
